@@ -27,8 +27,10 @@ The program uses functions to maintain clarity.
       Efficiency Score (Δ) = (Sum of Daily Scores / Maximum Possible Weekly Score) × 100
 
 Purpose
+
 This project was built as a personal life-efficiency system, combining self-discipline with academic learning.
  Negative scores are allowed, reflecting real-life consistency rather than artificial scoring.
 Future versions may extend this to multi-week tracking and averages.
+
 
 
