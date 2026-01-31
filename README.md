@@ -6,6 +6,7 @@ This C program is a personal habit tracker that evaluates daily discipline and c
 Daily habits and priorities are connected to programming logic to make this project a practical application of C language.
 
 Features
+
 Tracks a 5-day weekly routine
 
 Scoring is based on the following parameters:-
@@ -31,6 +32,7 @@ Purpose
 This project was built as a personal life-efficiency system, combining self-discipline with academic learning.
  Negative scores are allowed, reflecting real-life consistency rather than artificial scoring.
 Future versions may extend this to multi-week tracking and averages.
+
 
 
 
