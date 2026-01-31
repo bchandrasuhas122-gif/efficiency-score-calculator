@@ -20,9 +20,9 @@ The daily scores are stored in an array.
  Efficiency Score(Δ) is calculated and printed at the end.
 
 The program uses functions to maintain clarity.
-getYesNo() - Manages a yes or no based Input
-WeeklyScore() - Displays the scores of the week
-Efficiency_Score() - Calculates Efficiency Score using the formula
+1. getYesNo() - Manages a yes or no based Input
+2. WeeklyScore() - Displays the scores of the week
+3. Efficiency_Score() - Calculates Efficiency Score using the formula
 
       Efficiency Score (Δ) = (Sum of Daily Scores / Maximum Possible Weekly Score) × 100
 
@@ -30,4 +30,5 @@ Purpose
 This project was built as a personal life-efficiency system, combining self-discipline with academic learning.
  Negative scores are allowed, reflecting real-life consistency rather than artificial scoring.
 Future versions may extend this to multi-week tracking and averages.
+
 
